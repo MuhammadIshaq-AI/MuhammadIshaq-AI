@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MuhammadIshaq-AI
+- 👀 I’m interested in Machine Learning & Deep Learning
+- 🌱 I’m currently learning Deep Neural Networks
