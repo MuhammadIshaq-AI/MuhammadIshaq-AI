@@ -10,7 +10,8 @@ Join me on a journey through the realms of AI, where I explore the magic of larg
 
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn)](https://www.linkedin.com/in/muhammad-i-165a37a0/)
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishaq)
+)](https://www.linkedin.com/in/muhammad-i-165a37a0/)
 
 Languages and Tools:
 
